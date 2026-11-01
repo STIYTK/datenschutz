@@ -41,7 +41,7 @@ Bevor eine App neue Daten verarbeitet, passe ich diese Erklärung an. Das Datum 
 
 Rechenaufgaben aus der Wechselstromtechnik für iPhone. Keine Internetverbindung.
 
-Lokal gespeichert: die Zahl der gelösten Aufgaben, die beste Serie und die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58). Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen, oder die App löschen.
+Lokal gespeichert: die Zahl der gelösten Aufgaben, die aktuelle und die beste Serie, die erreichten Erfolge, die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58) und dass du die Hinweise beim ersten Start akzeptiert hast. Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen, oder die App löschen.
 
 ## Support
 
