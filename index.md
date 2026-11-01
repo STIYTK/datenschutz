@@ -39,7 +39,7 @@ Bevor eine App neue Daten verarbeitet, passe ich diese Erklärung an. Das Datum 
 
 ### Formeltrainer Wechselstrom
 
-Rechenaufgaben aus der Wechselstromtechnik für iPhone. Keine Internetverbindung.
+Rechenaufgaben aus der Wechselstromtechnik für iPhone. Keine eigene Internetverbindung. Bist du auf dem Gerät im Game Center angemeldet, meldet die App deine erreichten Ränge als Erfolge an Apples Game Center. Dafür gilt Apples Datenschutzrichtlinie, ich selbst erhalte dabei keine Daten über dich.
 
 Lokal gespeichert: die Zahl der gelösten Aufgaben, die aktuelle und die beste Serie, die erreichten Erfolge, die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58) und dass du die Hinweise beim ersten Start akzeptiert hast. Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen, oder die App löschen.
 
