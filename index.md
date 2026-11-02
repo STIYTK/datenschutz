@@ -1,6 +1,6 @@
 # Datenschutz und Support
 
-Stand: 1. November 2026
+Stand: 2. November 2026
 
 Diese Erklärung gilt für alle Apps, die ich, Zackory Strbak, im App Store veröffentliche. Welche das sind und was jede davon auf deinem Gerät speichert, steht unten unter [Die Apps](#die-apps).
 
@@ -39,9 +39,9 @@ Bevor eine App neue Daten verarbeitet, passe ich diese Erklärung an. Das Datum 
 
 ### Formeltrainer Wechselstrom
 
-Rechenaufgaben aus der Wechselstromtechnik für iPhone. Keine eigene Internetverbindung. Bist du auf dem Gerät im Game Center angemeldet, meldet die App deine erreichten Ränge als Erfolge und deine beste Serie an Apples Game Center. Die beste Serie erscheint dort mit deinem Game-Center-Namen in einer Bestenliste, die andere Spieler sehen können. Dafür gilt Apples Datenschutzrichtlinie, ich selbst erhalte dabei keine Daten über dich.
+Rechenaufgaben aus der Wechselstromtechnik für iPhone. Keine eigene Internetverbindung. Bist du auf dem Gerät im Game Center angemeldet, meldet die App deine Erfolge, den Fortschritt dazu und deine beste Serie an Apples Game Center. Die beste Serie erscheint dort mit deinem Game-Center-Namen in einer Bestenliste, die andere Spieler sehen können. Dafür gilt Apples Datenschutzrichtlinie, ich selbst erhalte dabei keine Daten über dich.
 
-Lokal gespeichert: die Zahl der gelösten Aufgaben, die aktuelle und die beste Serie, die erreichten Erfolge, die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58) und dass du die Hinweise beim ersten Start akzeptiert hast. Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen, oder die App löschen.
+Lokal gespeichert: die Zahl der gelösten Aufgaben, die aktuelle und die beste Serie, die erreichten Erfolge mit ihren Zählern (zum Beispiel Übungstage und Zeitpunkt der letzten Lösung), die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58) und dass du die Hinweise beim ersten Start akzeptiert hast. Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen (Erfolge und ihre Zähler bleiben dabei), oder die App löschen, dann ist alles weg.
 
 ## Support
 
