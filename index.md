@@ -1,6 +1,6 @@
 # Datenschutz und Support
 
-Stand: 5. November 2026
+Stand: 6. November 2026
 
 Diese Erklärung gilt für alle Apps, die ich, Zackory Strbak, im App Store veröffentliche. Welche das sind und was jede davon auf deinem Gerät speichert, steht unten unter [Die Apps](#die-apps).
 
@@ -41,11 +41,15 @@ Bevor eine App neue Daten verarbeitet, passe ich diese Erklärung an. Das Datum 
 
 Rechenaufgaben aus der Wechselstromtechnik für iPhone. Keine eigene Internetverbindung. Bist du auf dem Gerät im Game Center angemeldet, meldet die App deine Erfolge, den Fortschritt dazu und deine beste Serie an Apples Game Center. Die beste Serie erscheint dort mit deinem Game-Center-Namen in einer Bestenliste, die andere Spieler sehen können. Dafür gilt Apples Datenschutzrichtlinie, ich selbst erhalte dabei keine Daten über dich.
 
-Lokal gespeichert: die Zahl der gelösten Aufgaben, die aktuelle und die beste Serie, die erreichten Erfolge mit ihren Zählern (zum Beispiel Übungstage und Zeitpunkt der letzten Lösung), die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58), dein Lernstand je Aufgabenart (wie oft beim ersten Versuch richtig und wann zuletzt geübt), die Ergebnisse der Probeprüfungen, welche Formeln du in der Formel-Abfrage schon sicher weißt, welche Verständnisfragen bald noch einmal kommen sollen, ob und zu welcher Uhrzeit du an das Üben erinnert werden willst, und dass du die Hinweise beim ersten Start akzeptiert hast. Für das Widget legt die App eine kurze Zusammenfassung (Lösungen heute, Tage in Folge, Ersatztage, wie viele Aufgabenarten dran sind) in einem gemeinsamen Speicher von App und Widget ab, ebenfalls nur auf dem Gerät.
+Lokal gespeichert: die Zahl der gelösten Aufgaben, die aktuelle und die beste Serie, die erreichten Erfolge mit ihren Zählern (zum Beispiel Übungstage und Zeitpunkt der letzten Lösung), die gewählte Leitfähigkeit von Kupfer (κ = 56 oder 58), dein Lernstand je Aufgabenart (wie oft beim ersten Versuch richtig und wann zuletzt geübt), die Ergebnisse der Probeprüfungen (auch ob die Formelkarte erlaubt war), welche Formeln du in der Formel-Abfrage schon sicher weißt, welche Verständnisfragen bald noch einmal kommen sollen, welche vorgerechneten Beispiele du schon gesehen hast, dein Fehlerheft (die letzten 30 falsch gelösten Aufgaben mit ihren Zahlen), die Termine deiner Gesellenprüfung, wenn du sie einträgst, ob und zu welcher Uhrzeit du an das Üben erinnert werden willst, und dass du die Hinweise beim ersten Start akzeptiert hast. Für das Widget legt die App eine kurze Zusammenfassung (Lösungen heute, Tage in Folge, Ersatztage, wie viele Aufgabenarten dran sind) in einem gemeinsamen Speicher von App und Widget ab, ebenfalls nur auf dem Gerät.
+
+iCloud-Abgleich: Er ist aus, bis du ihn in der App unter „Lernstand“ einschaltest. Dann legt die App eine Kopie der oben genannten Übungsdaten (ohne die Einstellung zur Erinnerung und ohne die Bestätigung der Hinweise) im iCloud-Schlüsselspeicher deines eigenen iCloud-Kontos ab, damit sie auf deine anderen Geräte und ein neues iPhone mitkommen. Die Übertragung und Speicherung übernimmt Apple, es gilt Apples Datenschutzrichtlinie. Ich selbst habe keinen Zugriff darauf. Ausschalten kannst du den Abgleich jederzeit, und mit „Stand aus iCloud löschen“ entfernst du die Kopie aus iCloud.
+
+Teilen: Mit „Teilen“ im Lernstand erzeugt die App ein Bild deines Lernstands. Wohin es geht, entscheidest du im Teilen-Menü des iPhones; die App selbst verschickt nichts.
 
 Erinnerungen sind aus, bis du sie selbst einschaltest. Es sind lokale Mitteilungen, die das iPhone selbst zur gewählten Uhrzeit zeigt; dafür wird nichts übers Internet geschickt. Ausschalten kannst du sie in der App unter „Lernstand“ oder in den Einstellungen unter Mitteilungen.
 
-Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen (Erfolge und ihre Zähler bleiben dabei), oder die App löschen, dann ist alles weg.
+Löschen: lange auf den Punktestand drücken und „Punkte zurücksetzen“ wählen (Erfolge und ihre Zähler bleiben dabei), oder die App löschen, dann ist alles auf dem Gerät weg. Eine Kopie in iCloud löschst du vorher in der App mit „Stand aus iCloud löschen“ oder in den iPhone-Einstellungen unter iCloud.
 
 ### Ausschneider
 
