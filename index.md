@@ -1,6 +1,6 @@
 # Datenschutz und Support
 
-Stand: 6. November 2026
+Stand: 7. November 2026
 
 Diese Erklärung gilt für alle Apps, die ich, Zackory Strbak, im App Store veröffentliche. Welche das sind und was jede davon auf deinem Gerät speichert, steht unten unter [Die Apps](#die-apps).
 
